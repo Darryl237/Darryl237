@@ -1,21 +1,29 @@
 ## 👋 Hi, I'm Darryl
 
-**Data Analyst / Business Analyst** | Data Consultant @ Taxi2000 | M2 AI & Management
+**Data Analyst → Data Engineer (in training)** | M1 Data Engineering @ YNOV | Ex-Data Consultant @ Taxi2000
 
 I build data solutions that turn raw data into decisions: data quality, business
-KPIs, BI dashboards, and predictive models applied to real-world problems.
+KPIs, BI dashboards and predictive models applied to real-world problems.
+I am now deepening my data engineering skills: pipelines, cloud architecture,
+data governance and MLOps.
 
 ### 🎓 Education
-- **M2 Artificial Intelligence & Management** — NEXA DIGITAL SCHOOL *(Oct. 2025 – defense Sept. 2026)*
+- **M1 Data Engineering** — YNOV *(Oct. 2026 – defense Sept. 2027, work-study)*
+- **M2 Artificial Intelligence & Management** — NEXA DIGITAL SCHOOL *(Oct. 2025 – Sept. 2026)*
 - **M1 Artificial Intelligence & Management** — IA School *(Sept. 2024 – June 2025)*
 
 ### 💼 Experience
-- **Data Consultant (internship)** — Taxi2000, Cognac *(since April 2026)*
-  Building a data infrastructure from scratch: collection, structuring,
+- **Data Consultant (internship)** — Taxi2000, Cognac *(April – Sept. 2026)*
+  Built a data infrastructure from scratch: collection, structuring,
   GDPR/HDS-compliant anonymization of patient data, operational reporting.
 - **Data Analyst (internship)** — Terre & Saveurs *(May–July 2024)*
-  Data quality checks, KPIs, Power BI dashboards — automated weekly reporting
-  (-40% analysis time).
+  Data quality checks, KPIs, Power BI dashboards: automated weekly reporting
+  (-40% analysis time)
+
+### 🚧 Currently
+- Team project at YNOV (YDays): an AI decision-support tool in healthcare, built with
+  public datasets only
+- Learning: cloud data architecture, ETL pipelines, data quality and governance.
 
 
 # 💻 Tech Stack:
